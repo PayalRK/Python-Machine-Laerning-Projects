@@ -1,1 +1,1 @@
-# Python-Machine-Laerning-Projects
+# Python-Machine-Learning-Projects
